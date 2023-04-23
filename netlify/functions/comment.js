@@ -1,7 +1,7 @@
 process.env.DETA_RUNTIME = 'true';
 
-process.env.SITE_NAME=Hexo
-process.env.SITE_URL=https://linguoguang.com
+process.env.SITE_NAME="Hexo";
+process.env.SITE_URL="https://linguoguang.com";
 process.env.MAIL_SUBJECT = "{{parent.nick | safe}}，『{{site.name | safe}}』上的评论收到了回复";
 process.env.MAIL_TEMPLATE = `<div style="background: url(https://npm.elemecdn.com/sarakale-assets@v1/Article/email/bg2.png);padding:40px 0px 20px;margin:0px;background-color:#FFCDCE;width:100%;">
         <style type="text/css">@media screen and (max-width:600px){.afterimg,.beforeimg{display:none!important}}</style>
