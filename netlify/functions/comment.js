@@ -6,7 +6,7 @@ process.env.MAIL_SUBJECT = "{{parent.nick | safe}}，『{{site.name | safe}}』�
 process.env.MAIL_TEMPLATE = `<div style="background: url(https://npm.elemecdn.com/sarakale-assets@v1/Article/email/bg2.png);padding:40px 0px 20px;margin:0px;background-color:#FFCDCE;width:100%;">
         <style type="text/css">@media screen and (max-width:600px){.afterimg,.beforeimg{display:none!important}}</style>
         <div style="border-radius: 10px 10px 10px 10px;font-size:14px;color: #555555;width: 530px;margin:auto;font-family:"Century Gothic","Trebuchet MS","Hiragino Sans GB",微软雅黑,"Microsoft Yahei",Tahoma,Helvetica,Arial,"SimSun",sans-serif;margin:50px auto;max-width:100%;background: ##ffffff;">
-                <img class="beforeimg" style="width:530px;height:317px;z-index:-100;pointer-events:none" src="https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png">
+                <img class="beforeimg" style="width:530px;height:295px;z-index:-100;pointer-events:none" src="https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png">
                 <img src="https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg" style="width:100%;overflow:hidden;pointer-events:none;margin-top: -120px;">
                 <div style="width:100%;background:#f8d1ce;color:#9d2850;background-image: -moz-linear-gradient(0deg, rgb(67, 198, 184), rgb(255, 209, 244));height: 66px;background: url(https://tva2.sinaimg.cn/large/c56b8822ly1h61tb7tagcj20ii01u3yc.jpg) left top no-repeat;display: flex;justify-content: center;flex-direction: column;">
                 <p style="font-size:16px;font-weight: bold;text-align:center;word-break:break-all;margin:0;">
